@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #3C6997;
+    text-align: center;
+}
+
+#myBtn{
+    margin-top: 2em;
+    font-size: 3em;
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #5ADBFF;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#myBtn:hover{
+    background-color: #41caf0;
+}
+
+.myLabels{
+    font-size: 3em;
+}
