@@ -2,6 +2,10 @@
 
 A simple and interactive Dice Roller built using **HTML, CSS, and JavaScript**. Click the Roll button to generate three random numbers between 1 and 6, just like rolling three dice.
 
+## **Live Demo**
+
+[Random Number Generator](https://rndm-num-gen.netlify.app/?utm_source=chatgpt.com)
+
 ## ✨ Features
 - Generates three random numbers simultaneously.
 - Numbers range from 1 to 6.
